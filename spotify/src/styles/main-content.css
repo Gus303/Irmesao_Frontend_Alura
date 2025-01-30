@@ -35,7 +35,7 @@
     height: 32px;
     background: var(--bg-icon);
     background-color: var(--bg-arrow-color);
-    border-radius: 50%;
+    border-radius: 50% ;
     border: none;
     cursor: pointer;
 }
