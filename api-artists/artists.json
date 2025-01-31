@@ -1,4 +1,5 @@
-{ "artists": [
+{ 
+  "artists": [
       {"id": 1,
         "name": "Foo Fighters",
         "genre": "Rock",
@@ -28,4 +29,5 @@
       {"id": 7,
         "name": "Caetano Veloso",
         "genre": "MPB",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"}]}
+        "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"}]
+  }
